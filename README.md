@@ -1,0 +1,2 @@
+# widget-rotativo
+Gadget rotativo
